@@ -1,0 +1,15 @@
+#EXTM3U x-tvg-全球资源定位器(制服 Resource 探测器)=" https://live . fan mingming . com/e . XML ",“http://EPG。51 zmt。top:8000/e . XML ",《http://epg.aptvapp.com/xml》,"https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
+#EXTINF:-1 tvg-身份证明（识别）="1" tvg-名字=“莱森 Sie” tvg-标志；徽标=" http://175 .178 .251 .183:6689/lr。jpg "组-标题= “安昆迪贡”，莱森 Sie
+https://liuliuliu.tv/api/channels/1997/stream
+#EXTINF:-1 tvg-身份证明（识别）="1" tvg-名字=" yuanzl77.github.io " tvg-标志；徽标=" http://175 .178 .251 .183:6689/lr .jpg "组-标题=“安昆迪贡”，yuanzl77.开源代码库.超正析象管
+https://liuliuliu.tv/api/channels/233/stream
+#EXTINF:-1 tvg-身份证明（识别）="1" tvg-名字="更新" tvg-标志；徽标=网 //175 .178 .251 .183:6689/实验室反应堆。使用jpeg文件交换格式存储的编码图像文件扩展名 »组-标题="安昆迪贡“，更新
+https://gitlab.com/lr77/IPTV/-/raw/main/%E4%B8%BB%E8%A7%92.mp4
+#EXTINF:-1 tvg-身份证明（标识)= "1“tvg-名字=“2025-01-06”电视广告-标志；徽标=网 //175 .178 .251 .183:6689/实验室反应堆。使用jpeg文件交换格式存储的编码图像文件扩展名 »组-标题="公告",2025-01-06
+https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4
+关于 #EXTINF:-1 tvg-身份证明（识别）="1" tvg-名字=“CCTV1” tvg- 标志;标志；徽标 = 网 //gcore。jsdelivr。网/加纳/yuanzl 77/电视标志@掌握/png/中国中央电视台；闭路电视 1.巴布亚-新几内亚" group-title= "中心的 录像 频道“，CCTV1
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8$LR•IPV6『线路1』
+关于#EXTINF:-1 tvg-身份证明（识别)=“2”电视广告-名字=" CCTV1 “tvg-标志；标志；徽标=网//gcore。jsdelivr。网/加纳/yuanzl 77/电视标志@掌握/png/中国中央电视台；闭路电视 1。巴布亚-新几内亚"组-标题= "中央视频频道“，CCTV1
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8$LR•IPV6『线路2』
+#EXTINF:-1 tvg-logo= "http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-id="7249" tvg-name="CCTV16" group-title="央视",CCTV奥林匹克频道
+http://192.168.2.1:1111/22.ts
